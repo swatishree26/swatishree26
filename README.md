@@ -1,8 +1,5 @@
 ### Hi there, my name is Swati. Welcome to my github profile.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python, Flask, MySQL
 - 🌱 I’m currently learning Back-end development
 - 👯 I’m looking to collaborate on projects
