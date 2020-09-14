@@ -1,4 +1,4 @@
-### Hi there my name is Swati and welcome to my github profile.
+### Hi there, my name is Swati. Welcome to my github profile.
 
 
 Here are some ideas to get you started:
